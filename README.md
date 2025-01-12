@@ -1,10 +1,10 @@
 # 🪐 Beam
 Beam is a simple web meeting app using [WebRTC](https://webrtc.org/) to have virtual chats in delightful locations. The source code is very hacky, cobbled together during Covid lockdowns from different WebRTC and TensorFlow.js tutorials (links lost, to be updated).
 
-Try it out for yourself at https://beam.ianua.app. No registration is required, and it runs well in chromium-based browsers.
+Try it out for yourself at 🪐 https://beam.ianua.app. No registration is required, and it runs well in [Chromium-based](https://alternativeto.net/category/browsers/chromium-based/) browsers (others not yet tested).
 
 <a href="https://beam.ianua.app">
-  <img src="./client/src/img/example1.jpg" target="_blank" width="400px" style="border-radius=25px;" />
+  <img src="./client/src/img/example3.png" target="_blank" width="400px" style="border-radius=25px;" />
 </a>
 
 Locations currently supported:

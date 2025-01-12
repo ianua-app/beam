@@ -301,10 +301,10 @@ function Room(props) {
               {drawPeople && users.map((user, index) =>
                 index < room.positions.length
                   ? <deckgo-drr id={"box_" + user.id} key={user.id} style={{ "--width": room.positions[index].width, "--height": room.positions[index].height, "--left": room.positions[index].left, "--top": room.positions[index].top, "--rotate": room.positions[index].rotate }}>
-                    <canvas id={"canvas_" + user.id} height="240px" width="240px" />
+                    <canvas id={"canvas_" + user.id} height="240px" width="240px" class="animate__animated animate__fadeInDown"/>
                   </deckgo-drr>
                   : <deckgo-drr id={"box_" + user.id} key={user.id} style={{ "--width": "10%", "--height": "10%" }}>
-                    <canvas id={"canvas_" + user.id} height="240px" width="240px" />
+                    <canvas id={"canvas_" + user.id} height="240px" width="240px" class="animate__animated animate__fadeInDown" />
                   </deckgo-drr>
               )}
             </div>

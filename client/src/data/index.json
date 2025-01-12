@@ -1,0 +1,35 @@
+{
+  "scene": 0,
+  "scenes": [
+    {
+      "id": "street-cafe",
+      "title": "Street Cafe",
+      "description": "Sit back in this street cafe in Hamburg Germany and listen to the ambient street noise all around you.",
+      "preview": "https://www.coolibri.de/wp-content/uploads/2018/07/05_11_18_Coffee_Pirates.jpg"
+    },
+    {
+      "id": "california-cafeteria",
+      "title": "California Cafe",
+      "description": "Stop by this California Cafeteria for some authentic Menudo or Chilaquiles.",
+      "preview": "https://images.unsplash.com/photo-1483648969698-5e7dcaa3444f?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1934&q=80"
+    },
+    {
+      "id": "wedding-car",
+      "title": "Wedding Car",
+      "description": "Today is the big day, celebrate by taking a ride in this beautifully decorated car.",
+      "preview": "https://images.unsplash.com/photo-1563957171230-adb0aa2e52e8?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1504&q=80"
+    },
+    {
+      "id": "roller-coaster",
+      "title": "Roller Coaster",
+      "description": "Enjoy a ride on this virtual roller coaster!",
+      "preview": "https://i.redd.it/wiq3qmu43ov11.jpg"
+    },
+    {
+      "id": "cereal-bowl",
+      "title": "Cereal Bowl",
+      "description": "Remember the cereal bowl scene in \"Honey I Shrunk the Kids?\"  Well this is like that.",
+      "preview": "https://storage.googleapis.com/bruno-hosting/mindpads/cereal_spoon.jpg"
+    }
+  ]
+}

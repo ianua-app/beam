@@ -1,0 +1,325 @@
+{
+  "scene": 0,
+  "scenes": [
+    {
+      "id": "street-cafe",
+      "title": "Berlin Café ☕",
+      "description": "Sit back in this street café in Berlin, Germany and enjoy the gray weather.",
+      "preview": "/berlin.jpg",
+      "sound": "/street_sounds.mp3",
+      "positions": [
+        {
+          "width": "26.8713%",
+          "height": "30.8232%",
+          "left": "1.24366%",
+          "top": "53.7313%",
+          "rotate": "347deg"
+        },
+        {
+          "width": "22.8135%",
+          "height": "26.8969%",
+          "left": "23.685%",
+          "top": "51.3048%",
+          "rotate": "347deg"
+        },
+        {
+          "width": "14.5609%",
+          "height": "22.2702%",
+          "top": "50.3619%",
+          "left": "44.3647%",
+          "rotate": "346.499deg"
+        },
+        {
+          "width": "11.5866%",
+          "height": "17.8613%",
+          "top": "52.4266%",
+          "left": "65.3523%",
+          "rotate": "7.08968deg"
+        },
+        {
+          "width": "7.89898%",
+          "height": "10.3456%",
+          "top": "54.2958%",
+          "left": "77.1906%",
+          "rotate": "341.649deg"
+        },
+        {
+          "width": "7.37165%",
+          "height": "8.89401%",
+          "top": "53.6406%",
+          "left": "88.1743%",
+          "rotate": "10.8544deg"
+        }
+      ]
+    },
+    {
+      "id": "california-cafeteria",
+      "title": "California Taqueria 🌮",
+      "description": "Stop by this California Cafeteria for some authentic Menudo or Chilaquiles.",
+      "preview": "https://images.unsplash.com/photo-1483648969698-5e7dcaa3444f?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1934&q=80",
+      "sound": "/cafeteria.mp3",
+      "positions": [
+        {
+          "width": "17.4685%",
+          "height": "26.4055%",
+          "top": "46.3594%",
+          "left": "75.5878%",
+          "rotate": "0deg"
+        },
+        {
+          "width": "20.6497%",
+          "height": "26.5899%",
+          "top": "45.9908%",
+          "left": "54.9101%",
+          "rotate": "0deg"
+        },
+        {
+          "width": "17.7451%",
+          "height": "24.5622%",
+          "top": "47.4654%",
+          "left": "24.2047%",
+          "rotate": "0deg"
+        },
+        {
+          "width": "18.3675%",
+          "height": "26.4055%",
+          "top": "32.8111%",
+          "left": "0%",
+          "rotate": "0deg"
+        }
+      ]
+    },
+    {
+      "id": "wedding-car",
+      "title": "Havana Wedding 💒",
+      "description": "Today is the big day, celebrate by taking a ride in this beautifully decorated car.",
+      "preview": "https://images.unsplash.com/photo-1563957171230-adb0aa2e52e8?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1504&q=80",
+      "sound": "/church_bells.oga",
+      "positions": [
+        {
+          "width": "14.3564%",
+          "height": "18.5227%",
+          "top": "32.8482%",
+          "left": "51.3831%",
+          "rotate": "1.8332deg"
+        },
+        {
+          "width": "13.1979%",
+          "height": "16.6011%",
+          "top": "33.0813%",
+          "left": "40.0664%",
+          "rotate": "6.36152deg"
+        },
+        {
+          "width": "12.1434%",
+          "height": "16.4437%",
+          "top": "33.368%",
+          "left": "63.9004%",
+          "rotate": "0deg"
+        },
+        {
+          "width": "12.2817%",
+          "height": "13.3251%",
+          "top": "36.7983%",
+          "left": "75.8645%",
+          "rotate": "13.6468deg"
+        },
+        {
+          "width": "12.4478%",
+          "height": "16.8395%",
+          "top": "37.0162%",
+          "left": "15.0968%",
+          "rotate": "347.246deg"
+        },
+        {
+          "width": "5.71189%",
+          "height": "6.98415%",
+          "top": "27.4428%",
+          "left": "22.1992%",
+          "rotate": "0deg"
+        },
+        {
+          "width": "6.3343%",
+          "height": "7.0881%",
+          "top": "26.9231%",
+          "left": "16.1826%",
+          "rotate": "0deg"
+        },
+        {
+          "width": "5.22779%",
+          "height": "7.19205%",
+          "top": "27.3389%",
+          "left": "27.3859%",
+          "rotate": "0deg"
+        }
+      ]
+    },
+    {
+      "id": "roller-coaster",
+      "title": "Amusement Park 🎢",
+      "description": "Enjoy a ride on this virtual roller coaster!",
+      "sound": "/roller_coaster.mp3",
+      "preview": "/roller_coaster.jpg",
+      "positions": [
+        {
+          "width": "6.04637%",
+          "height": "9.10154%",
+          "top": "13.9076%",
+          "left": "47.2852%",
+          "rotate": "200.074deg"
+        },
+        {
+          "width": "4.99411%",
+          "height": "8.58396%",
+          "top": "20.7567%",
+          "left": "41.8748%",
+          "rotate": "188.233deg"
+        },
+        {
+          "width": "5.33268%",
+          "height": "8.15563%",
+          "top": "27.6038%",
+          "left": "38.6038%",
+          "rotate": "153.652deg"
+        },
+        {
+          "width": "5.25789%",
+          "height": "8.74456%",
+          "top": "33.2005%",
+          "left": "35.5043%",
+          "rotate": "128.455deg"
+        },
+        {
+          "width": "6.50291%",
+          "height": "8.65974%",
+          "top": "40.1735%",
+          "left": "31.583%",
+          "rotate": "105.347deg"
+        },
+        {
+          "width": "6.30257%",
+          "height": "9.16458%",
+          "top": "47.2989%",
+          "left": "29.3075%",
+          "rotate": "77.8917deg"
+        },
+        {
+          "width": "6.63469%",
+          "height": "9.82285%",
+          "top": "55.4335%",
+          "left": "27.6882%",
+          "rotate": "69.8098deg"
+        },
+        {
+          "width": "5.8286%",
+          "height": "9.56637%",
+          "top": "64.5733%",
+          "left": "27.6633%",
+          "rotate": "69.8205deg"
+        }
+      ]
+    },
+    {
+      "id": "vienna",
+      "title": "Vienna Prater 🇦🇹",
+      "description": "",
+      "sound": "/roller_coaster.mp3",
+      "preview": "/vienna.jpg",
+      "positions": [
+        {
+          "width": "4.43616%",
+          "height": "5.71607%",
+          "left": "81.97947637271214%",
+          "top": "48.85563860232944%",
+          "rotate": "0deg"
+        },
+        {
+          "width": "4.8341%",
+          "height": "5.17894%",
+          "left": "83.21887298946201%",
+          "top": "59.63853211314476%",
+          "rotate": "0deg"
+        },
+        {
+          "width": "4.23509%",
+          "height": "5.62151%",
+          "left": "53.490642262895165%",
+          "top": "52.98295806988354%",
+          "rotate": "0deg"
+        },
+        {
+          "width": "3.83294%",
+          "height": "5.43674%",
+          "left": "66.18751064891846%",
+          "top": "35.140913643926794%",
+          "rotate": "0deg"
+        },
+        {
+          "width": "4.36917%",
+          "height": "4.69186%",
+          "left": "78.26751170271768%",
+          "top": "42.05896222961731%",
+          "rotate": "0deg"
+        },
+        {
+          "width": "4.30214%",
+          "height": "5.90229%",
+          "left": "55.98229711591791%",
+          "top": "44.45871730449252%",
+          "rotate": "0deg"
+        }
+      ]
+    },
+    {
+      "id": "london",
+      "title": "London bus 🇬🇧",
+      "description": "",
+      "sound": "/street.mp3",
+      "preview": "/london.jpg",
+      "positions": [
+        {
+          "width": "4.61907%",
+          "height": "5.49129%",
+          "left": "29.796630338325013%",
+          "top": "88.20458286189684%",
+          "rotate": "0deg"
+        },
+        {
+          "width": "4.7432%",
+          "height": "5.52209%",
+          "left": "38.71226572379367%",
+          "top": "74.10395207986687%",
+          "rotate": "8.459142005946916deg"
+        },
+        {
+          "width": "7.08776%",
+          "height": "8.90392%",
+          "left": "91.5209%",
+          "top": "84.4838%",
+          "rotate": "0deg"
+        },
+        {
+          "width": "3.83294%",
+          "height": "5.43674%",
+          "left": "31.36739922351636%",
+          "top": "72.5376840266223%",
+          "rotate": "0deg"
+        },
+        {
+          "width": "4.92321686078758%",
+          "height": "5.689733777038265%",
+          "left": "36.394231835829174%",
+          "top": "87.86106489184691%",
+          "rotate": "0deg"
+        },
+        {
+          "width": "4.16805%",
+          "height": "6.39925%",
+          "left": "43.231810427066%",
+          "top": "86.80429467554076%",
+          "rotate": "0deg"
+        }
+      ]
+    }
+  ]
+}

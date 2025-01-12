@@ -1,5 +1,7 @@
 # 🪐 Beam
-Beam is a simple web meeting app using [WebRTC](https://webrtc.org/) to have virtual chats in delightful locations. The source code is very hacky, cobbled together during Covid lockdowns from different WebRTC and TensorFlow.js tutorials (links lost, to be updated).
+Beam is a simple web meeting app using [WebRTC](https://webrtc.org/) to have virtual chats in delightful locations. The source code is very hacky, cobbled together during Covid lockdowns from different WebRTC and TensorFlow.js tutorials (links lost, to be updated), however should be stable for casual chatting with up to 5-6 people. 
+
+The compositing of webcam video is done client-side, so performance will degrade with every additional guest.
 
 Try it out for yourself at 🪐 https://beam.ianua.app. No registration is required, and it runs well in [Chromium-based](https://alternativeto.net/category/browsers/chromium-based/) browsers (others not yet tested).
 
@@ -21,7 +23,7 @@ Ideas for features or new locations? Create an issue and let's do it!
 Prerequisites:
 - Node.js
 
-To build it yourself, you can run the `build.sh` script in the **service** directory. This builds the client and copies it to the service public directory. You can run the service with `npm start` to test locally, or the `deploy.sh` contains a sample deployment to a Google Cloud VM using a docker image.
+To build it yourself, you can run the `build.sh` script in the **service** directory. This builds the client and copies it to the service public directory. You can run the service with `npm start` to test locally, or the `deploy.sh` contains a sample deployment to a Google Cloud VM using a Docker image.
 
 ## Atributions
 
